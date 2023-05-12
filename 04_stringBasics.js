@@ -1,5 +1,5 @@
 function stringBasics() {
-    console.log("your dream company name");
+    console.log("My dream company name is Google");
 }
 stringBasics();
 
