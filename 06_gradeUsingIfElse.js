@@ -1,6 +1,4 @@
-console.log(
-  `1.Design a grade system with function name as gradCalculation() with argument marks andno return value.`
-);
+console.log(`1.Design a grade system with function name as gradCalculation() with argument marks andno return value.`);
 function gradeCalculation(marks) {
   console.log(``);
   console.log(`Your marks is : ${marks}`);

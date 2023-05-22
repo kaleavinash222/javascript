@@ -19,3 +19,10 @@ voteEligibilty(200);
 voteEligibilty(0);
 voteEligibilty(undefined);
 voteEligibilty(null);
+
+
+
+
+for (index=8 ; index<=80 ;index=index+8) {
+console.log(index);  
+}
